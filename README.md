@@ -21,6 +21,14 @@
   * Shortcut links to top job portals (Naukri, LinkedIn, Indeed).
 
 ---
+## 📸 Screenshots
+
+---<img width="720" height="1600" alt="WhatsApp Image 2026-10-06 at 8 54 15 PM" src="https://github.com/user-attachments/assets/67bb08a6-f399-473c-baf9-98be6daa877e" />
+<img width="720" height="1600" alt="WhatsApp Image 2026-10-06 at 8 54 17 PM" src="https://github.com/user-attachments/assets/16c041c8-42ba-460f-85a7-fbde41824547" />
+<img width="720" height="1600" alt="WhatsApp Image 2026-10-06 at 8 54 16 PM" src="https://github.com/user-attachments/assets/99b959c1-5166-45cc-b335-6da4edcfd60c" />
+<img width="720" height="1600" alt="WhatsApp Image 2026-10-06 at 8 54 16 PM (2)" src="https://github.com/user-attachments/assets/eb8dbac1-726a-4041-99a1-c2e816ce4626" />
+<img width="720" height="1600" alt="WhatsApp Image 2026-10-06 at 8 54 16 PM (1)" src="https://github.com/user-attachments/assets/4660e620-2c10-4505-862a-20d406454da5" />
+
 
 ## 🛠 Tech Stack & Tools
 
