@@ -51,7 +51,7 @@
 
 Click the button below to directly download and install the latest APK on your Android device:
 
-[![Download APK](https://img.shields.io/badge/Download-APK-brightgreen?style=for-the-badge&logo=android)](YOUR_DIRECT_APK_LINK_HERE)
+[![Download APK](https://img.shields.io/badge/Download-APK-brightgreen?style=for-the-badge&logo=android)](https://github.com/AlagarSadjac/AlagaS-IT-Career/releases/download/v1.0/app-debug.apk)
 
 ---
 
