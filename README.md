@@ -46,11 +46,11 @@
    git clone [https://github.com/AlagarSadjac/AlagaS-IT-Career.git](https://github.com/AlagarSadjac/AlagaS-IT-Career.git)
 
 
-2. ​Add Configuration File:
+2. ​**Add Configuration File:**
     ​Download google-services.json from your Firebase Console.
     ​Place it into the app/ folder of this project.
 
-3. Run the Project:
+3. **Run the Project:**
     ​Open the project in Android Studio.
     ​Sync Gradle files.
     ​Run the app directly on an Android mobile device or emula
