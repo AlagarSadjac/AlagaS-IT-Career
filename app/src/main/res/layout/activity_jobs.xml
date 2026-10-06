@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:padding="16dp"
+    android:background="@drawable/alaga">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <androidx.appcompat.widget.Toolbar
+            android:layout_marginTop="100dp"
+            android:id="@+id/toolbar"
+            android:layout_width="wrap_content"
+            android:layout_height="?attr/actionBarSize"
+            android:background="#FF9999"
+            app:elevation="50dp">
+            <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Chennai IT Jobs Locations"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:textColor="#2196F3"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"/>
+        </androidx.appcompat.widget.Toolbar>
+
+
+        <TextView
+            style="@style/Widget.AppCompat.Button"
+            android:id="@+id/txtTidelPark"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="1. Tidel Park, Tharamani"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:textColor="#1E90FF"
+            android:layout_marginTop="30dp"/>
+            <TextView
+            android:textStyle="bold"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Hub for major IT companies in Chennai."
+            android:layout_marginBottom="10dp"/>
+
+
+        <TextView
+            style="@style/Widget.AppCompat.Button"
+            android:id="@+id/txtOMR"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="2. OMR IT Corridor"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:textColor="#1E90FF"
+            android:layout_marginTop="30dp"/>
+            <TextView
+            android:textStyle="bold"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Sholinganallur, Siruseri IT Parks list."
+            android:layout_marginBottom="10dp"/>
+
+
+        <TextView
+            style="@style/Widget.AppCompat.Button"
+            android:id="@+id/txtJobPortal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="3. Top Job Portals for IT"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:textColor="#1E90FF"
+            android:layout_marginTop="30dp"/>
+            <TextView
+            android:textStyle="bold"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Naukri, LinkedIn, and Indeed links."
+            android:layout_marginBottom="10dp"/>
+
+    </LinearLayout>
+</ScrollView>

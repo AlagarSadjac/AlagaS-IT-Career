@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:padding="20dp"
+    android:background="#000000">
+
+
+    <androidx.appcompat.widget.Toolbar
+            android:layout_marginTop="30sp"
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="#FFFFFF"
+            app:elevation="50dp">
+            <TextView
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="AlagaS IT Career"
+            android:textColor="#000000"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            android:fontFamily="serif"/>
+
+    </androidx.appcompat.widget.Toolbar>
+
+
+    <Button
+        android:layout_marginTop="50sp"
+        style="@style/Widget.AppCompat.Button"
+        android:id="@+id/btnJava"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="Java &amp; Backend"
+        android:layout_marginBottom="15dp"
+        android:backgroundTint="#4CAF50"/>
+
+    <Button
+        style="@style/Widget.AppCompat.Button"
+        android:id="@+id/btnEnglish"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="IT English Tips"
+        android:layout_marginBottom="15dp"
+        android:backgroundTint="#FF9800"/>
+
+    <Button
+        style="@style/Widget.AppCompat.Button"
+        android:id="@+id/btnJobs"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="Chennai IT Jobs"
+        android:backgroundTint="#2196F3"/>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recycler_messages"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:layout_gravity="top"
+        android:padding="8dp" />
+
+
+</LinearLayout>
+
