@@ -47,7 +47,15 @@
 
 ---
 
-## ⚙️ Setup & Installation
+## 📥 Download App
+
+Click the button below to directly download and install the latest APK on your Android device:
+
+[![Download APK](https://img.shields.io/badge/Download-APK-brightgreen?style=for-the-badge&logo=android)](YOUR_DIRECT_APK_LINK_HERE)
+
+---
+
+## ⚙️ Setup & Installation (For Developers)
 
 1. **Clone the Repository:**
    * Run command: `git clone` [https://github.com/AlagarSadjac/AlagaS-IT-Career.git](https://github.com/AlagarSadjac/AlagaS-IT-Career.git)
