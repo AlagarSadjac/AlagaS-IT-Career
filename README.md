@@ -2,7 +2,7 @@
 
 [![Platform](https://img.shields.io/badge/Platform-Android-green?logo=android)](https://www.android.com/)
 [![Language](https://img.shields.io/badge/Language-Java-orange?logo=java)](https://www.java.com/)
-[![Release](https://img.shields.io/badge/Release-v1.0-blue)](https://github.com/AlagarSadjac/AlagaS-IT-Career/releases/latest)
+[![Release](https://img.shields.io/badge/Release-v1.0.0-blue)](https://github.com/AlagarSadjac/AlagaS-IT-Career/releases/latest)
 
 AlagaS IT Career is a dedicated native Android mobile application designed to empower job seekers and aspiring developers with structured Java roadmaps, IT interview communication mastery, and direct navigation to tech parks across Chennai.
 
@@ -11,7 +11,7 @@ AlagaS IT Career is a dedicated native Android mobile application designed to em
 ## 📥 Download the App
 Click the badge below to download the latest APK directly to your Android device:
 
-[![Download APK](https://img.shields.io/badge/Download-APK%20(v1.0)-success?style=for-the-badge&logo=android)](https://github.com/AlagarSadjac/AlagaS-IT-Career/releases/download/v1.0/app-debug.apk)
+[![Download APK](https://img.shields.io/badge/Download-APK%20(v1.0)-success?style=for-the-badge&logo=android)](https://github.com/AlagarSadjac/alaga-it-career-android/releases/download/v1.0.0/app-debug.apk)
 
 ---
 
