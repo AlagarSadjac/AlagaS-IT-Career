@@ -22,6 +22,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "AlagaS IT Career"
+rootProject.name = "alaga-it-career-android"
 include(":app")
  
